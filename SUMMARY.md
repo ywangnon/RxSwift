@@ -1,7 +1,6 @@
 # Table of contents
 
 * [개요](README.md)
-* [Untitled](untitled.md)
 
 ## Key Concept
 
