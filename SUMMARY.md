@@ -2,11 +2,11 @@
 
 * [개요](README.md)
 
-## Key Concept
+## Observables
 
-* [Observables and Observers](key-concept/observables-and-observers.md)
-* [Disposables](key-concept/disposables.md)
-* [Operators](key-concept/operators.md)
+* [Observables and Observers](observables/observables-and-observers.md)
+* [Disposables](observables/disposables.md)
+* [Operators](observables/operators.md)
 
 ## Subject
 
