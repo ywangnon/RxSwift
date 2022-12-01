@@ -8,8 +8,6 @@
 
 [RxSwiftCommunity Github](https://github.com/RxSwiftCommunity)
 
-
-
 ## Rx를 사용하는 이유
 
 Rx를 사용했을 때, 좋은 이유를 찾아보면 여러가지 이유가 나옵니다. 그 중에서 내가 가장 와 닿은 이유를 적어보겠습니다.
@@ -21,3 +19,6 @@ Rx를 사용했을 때, 좋은 이유를 찾아보면 여러가지 이유가 나
 3. **콜백처리**
    * 콜백처리로 결과를 이곳저곳에 넘겨주며 그 흐름을 추적하면서 작업하지 않게 됩니다. 자연스럽게 결과를 가공하여 처리할 수 있게 됩니다.
 
+## RxSwift 연습 코드
+
+[https://github.com/ywangnon/RxSwift\_GitBook\_Playground.git](https://github.com/ywangnon/RxSwift\_GitBook\_Playground.git)
