@@ -19,7 +19,7 @@
 
 ## Create
 
-* [Page 1](create/page-1.md)
+* [Create](create/page-1.md)
 
 ## Filter
 
