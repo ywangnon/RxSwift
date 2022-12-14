@@ -23,4 +23,4 @@
 
 ## Filter
 
-* [Page 3](filter/page-3.md)
+* [Filtering](filter/page-3.md)
