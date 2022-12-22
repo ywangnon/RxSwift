@@ -16,10 +16,9 @@ description: subject 개요
 * ReplaySubject: 하나이상의 이벤트를 버퍼에 저장. 옵저버가 구독을 시작하면 버퍼의 이벤트를 전부 전달
 * AsyncSubject: 서브젝트로 컴플리티드 이벤트가 전달되는 시점에 마지막으로 전달된 넥스트 이벤트를 구독자에게 전달
 
-**릴레이**
+**Relays**
 
-넥스트이벤트만 받는다. 종료없이 계속 전달되는 시퀀스 처리시 사용
+Complete와 Error 없이, Next 이벤트만 받는다. 종료없이 계속 전달되는 시퀀스 처리시 사용
 
 * PublishRelay: PublishSubject 래핑
 * BehaviorRelay: BehaviorSubject 래핑
-
