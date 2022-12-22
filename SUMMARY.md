@@ -24,3 +24,15 @@
 ## Filter
 
 * [Filtering](filter/page-3.md)
+
+***
+
+* [Transforming](transforming/README.md)
+  * [Page 2](transforming/page-2.md)
+* [Combining](combining.md)
+* [Time-base](time-base.md)
+* [SharingSubscription](sharingsubscription.md)
+* [Pattern](pattern.md)
+* [Extension](extension.md)
+* [Error Handling](error-handling.md)
+* [RxCocoa](rxcocoa.md)

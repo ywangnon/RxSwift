@@ -2,7 +2,7 @@
 
 ## Just
 
-* 하나의 값을 전딜
+* 하나의 값을 전
 * 파라미터로 받은 요소를 그대로 전달
 * from과 혼동 주의
 
@@ -22,7 +22,7 @@
 
 ## generate
 
-* 원하는 값으로 변화하는 씨퀀스를 다룸
+* 원하는 값으로 변화하는 씨퀀스를 다
 * initialState: 초기값
 * condition: true일때만 방출, false면 complete 방출하고 종료
 * iterate: 변화
@@ -39,17 +39,17 @@
 
 ## Create
 
-* Observable의 동작을 직접 구현 가능
+* Observable의 동작을 직접 구현 가
 
 ## Empty
 
 * Observable.empty()
 * completed 만 방출하고 종료
-* 옵저버가 아무런 동작없이 종료해야할 때 사용
+* 옵저버가 아무런 동작없이 종료해야할 때 사
 
 ## Error
 
 * Observable.error(MyError.error)
 * error 이벤트를 전달하고 종료
-* error 처리시 사용
+* error 처리시 사
 
