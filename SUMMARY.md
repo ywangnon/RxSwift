@@ -24,3 +24,35 @@
 ## Filter
 
 * [Filtering](filter/page-3.md)
+
+## Transforming
+
+* [Transforming](transforming/transforming.md)
+
+## Combining
+
+* [Combining](combining/combining.md)
+
+## Time-base
+
+* [Time-base](time-base/time-base.md)
+
+## Sharing Subscription
+
+* [SharingSubscription](sharing-subscription/sharingsubscription.md)
+
+## Patterns
+
+* [Patterns](patterns/patterns.md)
+
+## Extension
+
+* [Extension](extension/extension.md)
+
+## Error Handling
+
+* [Error Handling](error-handling/error-handling.md)
+
+## Rxcocoa
+
+* [RxCocoa](rxcocoa/rxcocoa.md)
