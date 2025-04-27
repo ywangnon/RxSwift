@@ -11,6 +11,7 @@
 | 🌐 공식 홈페이지 | [ReactiveX.io](http://reactivex.io/) |
 | 🐙 RxSwift GitHub | [github.com/ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) |
 | 🤝 RxSwiftCommunity | [github.com/RxSwiftCommunity](https://github.com/RxSwiftCommunity) |
+| 📖 GitBook | [gitbook/RxSwift](https://ywangnon123.gitbook.io/rxsw) |
 | 🏗️ 연습용 플레이그라운드 | [RxSwift_GitBook_Playground](https://github.com/ywangnon/RxSwift_GitBook_Playground.git) |
 
 ---
