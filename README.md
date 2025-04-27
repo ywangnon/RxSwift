@@ -99,8 +99,6 @@ RxSwift_GitBook_Playground
 ## 🔖 더 읽어보기
 
 - [RxSwift 공식 문서](https://github.com/ReactiveX/RxSwift/tree/main/Documentation)
-- [RxSwift by Examples](https://github.com/icanzilb/RxSwift-by-Examples)
-- [RxSwift Tips & Tricks – Jiseong Park](https://ios-development.tistory.com/entry/RxSwift-Tips)
 - [RxMarbles(인터랙티브 오퍼레이터 시뮬레이터)](http://rxmarbles.com/)
 
 ---
