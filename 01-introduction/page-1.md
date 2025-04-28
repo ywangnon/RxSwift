@@ -1,3 +1,7 @@
+---
+description: SPM/CocoaPods 설치 & Playground 열기
+---
+
 # Setup
 
 ## ⚙️ Setup — RxSwift 6.9 환경 구축
