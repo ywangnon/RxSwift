@@ -153,3 +153,7 @@ apiRequest()
 3. `activityIndicator` 오퍼레이터는 재사용 가능하고 _Sync lock_ 문제를 피하면서 스트림 체이닝만으로 로딩 상태를 관리해 **보일러플레이트 감소**.
 
 </details>
+
+***
+
+> 다음 페이지 ▶️ **Disposables**: 리소스 해제 전략을 더 깊이 파고듭니다. 🚀
