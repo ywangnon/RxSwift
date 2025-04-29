@@ -66,3 +66,4 @@
 
 * [Observables](02-coreconcepts/observables.md)
 * [Observers](02-coreconcepts/observers.md)
+* [Disposables](02-coreconcepts/disposables.md)
