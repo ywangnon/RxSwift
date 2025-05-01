@@ -82,3 +82,7 @@
 * [create](03-creatingsequences/create.md)
 * [just, of, from](03-creatingsequences/just-of-from.md)
 * [deferred, timer, interval](03-creatingsequences/deferred-timer-interval.md)
+
+## 04 Operators
+
+* [Filtering](04-operators/filtering.md)

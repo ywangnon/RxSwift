@@ -102,9 +102,16 @@ DispatchQueue.main.asyncAfter(deadline: .now() + 5) {
 1. `timer`와 `interval`의 주기 방출 차이?
 2. `deferred`를 활용해 사용자 로그인 상태에 따라 다른 API 스트림을 제공하려면? (개념 설명)
 3. `interval` 스트림을 일시 중지했다가 다시 시작하려면 어떤 오퍼레이터 조합이 유용할까?
-4. `timer`는 **지연 후 1회**(period 없을 때) 또는 **지연 후 주기**(period 사용) / `interval`은 **즉시 or 0 지연 후 주기** — 실행 방식 유사하나 `timer`는 첫 딜레이 지정 가능.
-5. `Observable.deferred { isLoggedIn ? api.userInfo() : Observable.error(AuthError.noLogin) }` 처럼 **구독 시점**에 상태를 체크해 알맞은 시퀀스를 반환.
-6. `interval` → `.pausable(trigger)`(RxExt) 또는 `withLatestFrom(pause)` + `flatMapLatest`를 사용해 Trigger가 false일 땐 판정 스킵.
+
+<details>
+
+<summary>Answers</summary>
+
+1. `timer`는 **지연 후 1회**(period 없을 때) 또는 **지연 후 주기**(period 사용) / `interval`은 **즉시 or 0 지연 후 주기** — 실행 방식 유사하나 `timer`는 첫 딜레이 지정 가능.
+2. `Observable.deferred { isLoggedIn ? api.userInfo() : Observable.error(AuthError.noLogin) }` 처럼 **구독 시점**에 상태를 체크해 알맞은 시퀀스를 반환.
+3. `interval` → `.pausable(trigger)`(RxExt) 또는 `withLatestFrom(pause)` + `flatMapLatest`를 사용해 Trigger가 false일 땐 판정 스킵.
+
+</details>
 
 ***
 
