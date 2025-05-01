@@ -99,3 +99,11 @@
 * [Sharing](05-hottopics/sharing.md)
 * [Memory Management](05-hottopics/memory-management.md)
 * [Patterns](05-hottopics/patterns.md)
+
+## 06 RxCocoa
+
+* [UI Binding](06-rxcocoa/ui-binding.md)
+
+***
+
+* [Gesture & Keyboard](gesture-and-keyboard.md)
