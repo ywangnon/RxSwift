@@ -86,3 +86,16 @@
 ## 04 Operators
 
 * [Filtering](04-operators/filtering.md)
+* [Transforming](04-operators/transforming.md)
+* [Combining](04-operators/combining.md)
+* [Time‑Based](04-operators/time-based.md)
+
+***
+
+* [Error Handling](error-handling-1.md)
+
+## 05 HotTopics
+
+* [Sharing](05-hottopics/sharing.md)
+* [Memory Management](05-hottopics/memory-management.md)
+* [Patterns](05-hottopics/patterns.md)
