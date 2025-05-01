@@ -79,4 +79,6 @@
 
 ## 03 CreatingSequences
 
-* [Create](03-creatingsequences/create.md)
+* [create](03-creatingsequences/create.md)
+* [just, of, from](03-creatingsequences/just-of-from.md)
+* [deferred, timer, interval](03-creatingsequences/deferred-timer-interval.md)
