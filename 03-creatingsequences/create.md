@@ -1,6 +1,6 @@
-# Create
+# create
 
-🏗️ `Observable.create` — 커스텀 시퀀스를 직접 설계하기
+## 🏗️ `Observable.create` — 커스텀 시퀀스를 직접 설계하기
 
 > **“Observable을 DIY 하자!”** 수많은 팩토리 메서드로도 부족할 때, `create`를 사용해 **임의의 방식으로 onNext/onCompleted/onError**를 제어할 수 있습니다.
 
@@ -102,4 +102,4 @@ Single<String>.create { single in
 
 ***
 
-> 다음 ▶️ **just\_from.md** 로 이동해 손쉬운 시퀀스 팩토리 메서드 `just`, `of`, `from`을 학습합니다. 🚀
+> 다음 ▶️ **just, of, from** 로 이동해 손쉬운 시퀀스 팩토리 메서드 `just`, `of`, `from`을 학습합니다. 🚀

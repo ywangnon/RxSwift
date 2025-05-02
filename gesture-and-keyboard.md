@@ -134,4 +134,4 @@ view.rx.keyboardHeight
 
 ***
 
-> RxCocoa 섹션 완료! 더 궁금한 점이나 추가 예제가 필요하면 알려주세요. 🚀
+> 🎉 Operators 챕터 끝! 이제 테스트 케이스 작성으로 학습을 강화해 보세요. 🚀

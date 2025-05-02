@@ -113,4 +113,4 @@ images
 
 ***
 
-> 다음 ▶️ **combining.md** 로 이동해 `merge`, `combineLatest`, `zip` 등을 학습합시다. 🚀
+> 다음 ▶️ **combining** 로 이동해 `merge`, `combineLatest`, `zip` 등을 학습합시다. 🚀

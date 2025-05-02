@@ -124,4 +124,4 @@ XCTAssertEqual(res.events, [
 
 ***
 
-> 🎉 Schedulers 섹션 완료! 이제 Operator 카테고리(Filtering 등)로 넘어가 스트림 변환을 마스터해 보세요. 🚀
+> 🎉 Schedulers 섹션 완료! 이제 Sequences 카테고리로 넘어가 스트림 생을 마스터해 보세요. 🚀

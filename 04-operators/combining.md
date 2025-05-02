@@ -109,4 +109,4 @@ sendButton.rx.tap
 
 ***
 
-> 다음 ▶️ **timeBased.md** 로 이동해 `debounce`, `throttle`, `timeout` 등 시간 기반 오퍼레이터를 살펴봅시다. 🚀
+> 다음 ▶️ **timeBased** 로 이동해 `debounce`, `throttle`, `timeout` 등 시간 기반 오퍼레이터를 살펴봅시다. 🚀

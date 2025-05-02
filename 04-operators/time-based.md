@@ -111,4 +111,4 @@ sensorStream
 
 ***
 
-> 이어서 ▶️ **errorHandling.md** 로 이동해 `catchError`, `retry`로 안정적인 스트림 만들기를 배워봅시다. 🚀
+> 이어서 ▶️ **errorHandling** 로 이동해 `catchError`, `retry`로 안정적인 스트림 만들기를 배워봅시다. 🚀

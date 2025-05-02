@@ -107,3 +107,13 @@
 ***
 
 * [Gesture & Keyboard](gesture-and-keyboard.md)
+
+## 07 Testing
+
+* [Marble Testing](07-testing/marble-testing.md)
+* [Test Scheduler](07-testing/test-scheduler.md)
+
+## 08 Appendix
+
+* [Swift Extension Cheat Sheet](08-appendix/swift-extension-cheat-sheet.md)
+* [Resources](08-appendix/resources.md)
