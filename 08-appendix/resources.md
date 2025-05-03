@@ -19,13 +19,16 @@
 
 ### 2️⃣ 튜토리얼 & 블로그 추천 - 확인 필
 
-| 제목      | 링크                                                                                                                                                                                                       | 포인트                |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| RxSwift | [https://www.kodeco.com/books/rxswift-reactive-programming-with-swift/v4.0/chapters/1-hello-rxswift](https://www.kodeco.com/books/rxswift-reactive-programming-with-swift/v4.0/chapters/1-hello-rxswift) | Kodeco, 기초+실습 프로젝트 |
+| 제목             | 링크                                                                                                                                                                                                       | 포인트                |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| RxSwift        | [https://www.kodeco.com/books/rxswift-reactive-programming-with-swift/v4.0/chapters/1-hello-rxswift](https://www.kodeco.com/books/rxswift-reactive-programming-with-swift/v4.0/chapters/1-hello-rxswift) | Kodeco, 기초+실습 프로젝트 |
+| fimux 님 github | [https://github.com/fimuxd/RxSwift.git](https://github.com/fimuxd/RxSwift.git)                                                                                                                           |                    |
 
 ***
 
 ### 3️⃣ 추천 서적
+
+참고할 만한 서적은 있지만, RxJava입니다. 외국서적도 있지만 온라인 자료로 공부하는 것을 추천합니다.
 
 | 서적 | 저자 / 번역 | 특징 |
 | -- | ------- | -- |
